@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace proj_api_dapper.Models
 {
-    public class Type
+    public class Kind
     {
-        public int IdType { get; set; }
+        public int IdKind { get; set; }
         public string Description { get; set; }
 
     }

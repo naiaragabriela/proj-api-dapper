@@ -11,6 +11,6 @@ namespace proj_api_dapper.Models
         public int IdProduct { get; set; }
         public string Name { get; set; }
         public int Quantity { get; set; }
-        public Type Type { get; set; }
+        public Kind Kind { get; set; }
     }
 }

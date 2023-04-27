@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\proj-api-dapper.Models\proj-api-dapper.Models.csproj" />
+  </ItemGroup>
+
 </Project>
